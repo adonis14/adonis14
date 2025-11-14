@@ -1,4 +1,4 @@
-# Hi, I'm Pavel 👋  
+# Hi, I'm Adonis 👋  
 **Full Stack Developer | PHP • Python • Go • TypeScript • Angular • React • Cloud & Automation**
 
 ## 👨‍💻 My Story
@@ -18,7 +18,7 @@ My goals are simple:
 
 ## 🚀 What I Work With
 ### **Languages**
-Python • Go • TypeScript • JavaScript • PHP • SQL • C#/.NET • HTML/CSS
+PHP • Python • Go • TypeScript • JavaScript • PHP • SQL • C#/.NET • HTML/CSS
 
 ### **Frameworks & Libraries**
 Angular (12–19) • React • Next.js  
