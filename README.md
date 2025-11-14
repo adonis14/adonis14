@@ -1,5 +1,5 @@
 # Hi, I'm Pavel 👋  
-**Full Stack Developer | Python • Go • TypeScript • Angular • React • Cloud & Automation**
+**Full Stack Developer | PHP • Python • Go • TypeScript • Angular • React • Cloud & Automation**
 
 ## 👨‍💻 My Story
 I started coding not because I planned a career in tech, but because I genuinely enjoy creating things that solve real problems. Over the years, this simple curiosity evolved into a passion for building reliable systems, clean architectures, and meaningful digital experiences.
